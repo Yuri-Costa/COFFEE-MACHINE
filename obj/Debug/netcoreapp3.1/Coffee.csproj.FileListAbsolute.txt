@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Coffee\bin\Debug\netcoreapp3.1\Coffee.exe
+C:\Users\dev\Desktop\Coffee\bin\Debug\netcoreapp3.1\Coffee.deps.json
+C:\Users\dev\Desktop\Coffee\bin\Debug\netcoreapp3.1\Coffee.runtimeconfig.json
+C:\Users\dev\Desktop\Coffee\bin\Debug\netcoreapp3.1\Coffee.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Coffee\bin\Debug\netcoreapp3.1\Coffee.dll
+C:\Users\dev\Desktop\Coffee\bin\Debug\netcoreapp3.1\Coffee.pdb
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.AssemblyInfo.cs
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.dll
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.pdb
+C:\Users\dev\Desktop\Coffee\obj\Debug\netcoreapp3.1\Coffee.genruntimeconfig.cache
